@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://desifoodcaters.com/sitemap.xml
